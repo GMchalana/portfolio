@@ -4,7 +4,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
-import { faMobileScreen } from '@fortawesome/free-solid-svg-icons';
+
+import { faMobileScreenButton } from '@fortawesome/free-solid-svg-icons';
+import { faCompass } from '@fortawesome/free-solid-svg-icons';
 import { faDesktop } from '@fortawesome/free-solid-svg-icons';
 import { faTerminal } from '@fortawesome/free-solid-svg-icons';
 
@@ -53,7 +55,7 @@ function Expertise() {
             <h1>Expertise</h1>
             <div className="skills-grid">
                 <div className="skill">
-                    <FontAwesomeIcon icon={faReact} size="3x"/>
+                    <FontAwesomeIcon icon={faCompass} size="3x"/>
                     <h3>Full Stack Web Development</h3>
                     <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
                     <div className="flex-chips">
@@ -65,7 +67,7 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faMobileScreen} size="3x"/>
+                    <FontAwesomeIcon icon={faMobileScreenButton} size="3x"/>
                     <h3>Mobile Application Development</h3>
                     <p>Once the application design is ready, I assist clients in developing mobile apps with a focus on performance, cross-platform compatibility, and seamless user experience to ensure a successful launch.</p>
                     <div className="flex-chips">
