@@ -16,8 +16,10 @@ function Main() {
             <a href="https://github.com/GMchalana" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/chalana-prabhashwara" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h1>Chalana Prabhashwara</h1>
+          <h2>Chalana Prabhashwara</h2>
+          
           <p>Software Engineer || Web Developer || Mobile Developer || Data architect</p>
+          
 
           <div className="mobile_social_icons">
             <a href="https://github.com/GMchalana" target="_blank" rel="noreferrer"><GitHubIcon/></a>
