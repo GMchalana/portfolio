@@ -46,3 +46,21 @@ form {
   width: 100% !important;
   margin-bottom: 15px !important;
 }
+
+
+/* Dark Mode Styles */
+.dark-mode {
+  --input-text-color: white;
+  --input-bg-color: #333;
+}
+
+/* Light Mode Styles */
+.light-mode {
+  --input-text-color: black;
+  --input-bg-color: #fff;
+}
+
+input, .MuiInputBase-root {
+  color: var(--input-text-color);
+  background-color: var(--input-bg-color);
+}
