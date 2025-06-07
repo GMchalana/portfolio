@@ -43,7 +43,7 @@ function Contact() {
       setIsLoading(true);
       try {
         await emailjs.send(
-          "service_xqtbr43",
+          "service_bn4ktfp",
           "template_q2vrumd",
           formData,
           'I0tRf0wvL-UVty1G4'

@@ -9,7 +9,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://media.licdn.com/dms/image/v2/D5603AQFQSmO43sqMoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721409073230?e=1742428800&v=beta&t=kK7RhGcUEArXKaZPaD4OfQQWRjjNV4sRWgCiVXTtYS4" alt="Avatar" />
+          <img src="https://media.licdn.com/dms/image/v2/D5603AQFQSmO43sqMoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721409073230?e=1754524800&v=beta&t=GXUD86oJ8fC2kK3OkXoBK6JTr9N74NQoAKjfUHos174" alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
